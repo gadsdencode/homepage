@@ -2,6 +2,20 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/widgets
 
+- logo:
+    icon: app/public/images/jm-logo.png
+
+- greeting:
+    text_size: xl
+    text: Command Center
+
+- datetime:
+    text_size: xl
+    format:
+      dateStyle: short
+      timeStyle: short
+      hour12: true
+
 - resources:
     cpu: true
     memory: true
@@ -9,4 +23,13 @@
 
 - search:
     provider: duckduckgo
+    focus: true # Optional, will set focus to the search bar on page load
     target: _blank
+
+- weatherapi:
+    label: Midlothian # optional
+    latitude: 37.506
+    longitude: -77.6492
+    units: imperial # or metric
+    apiKey: 464f45b731ba4a97b2b122557232109
+    cache: 5 # Time in minutes to cache API responses, to stay within limits

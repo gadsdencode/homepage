@@ -3,5 +3,11 @@
 # https://gethomepage.dev/en/configs/settings
 
 providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+  weatherapi: 464f45b731ba4a97b2b122557232109
+
+background:
+  image: /images/command-center-bg.png
+  blur: sm # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  saturate: 50 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  opacity: 50 # 0-100

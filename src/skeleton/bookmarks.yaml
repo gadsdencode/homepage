@@ -2,17 +2,75 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/bookmarks
 
-- Developer:
+- Coding:
     - Github:
         - abbr: GH
-          href: https://github.com/
+          href: https://github.com
+    - Docker-Wiki:
+        - abbr: DW
+          href: https://docs.docker.com
 
-- Social:
+- AI:
+    - OpenAIChat:
+        - abbr: OpenAI
+          href: https://chat.openai.com
+    - OpenAI API Reference:
+        - abbr: OpenAI API
+          href: https://platform.openai.com/docs/api-reference/introduction
+    - POE:
+        - abbr: POE
+          href: https://poe.com
+    - DIFY:
+        - abbr: DIFY
+          href: https://cloud.dify.ai/apps
+
+- Databases:
+    - Supabase:
+        - abbr: SB
+          href: https://supabase.com/dashboard/projects
+    - Pinecone:
+        - abbr: PCDB
+          href: https://app.pinecone.io/organizations/-NSVGI_DFgGz4Jzqz9dI/projects/eu-west1-gcp:3190584/indexes
+
+- Socials:
     - Reddit:
         - abbr: RE
-          href: https://reddit.com/
+          href: https://reddit.com
+    - Twitter:
+        - abbr: X
+          href: https://twitter.com/home
 
-- Entertainment:
+- Media:
+    - Wall Street Journal:
+        - abbr: WSJ
+          href: https://www.wsj.com/?mod=caj_onboarding
     - YouTube:
         - abbr: YT
-          href: https://youtube.com/
+          href: https://youtube.com
+
+- Work:
+    - MS365:
+        - abbr: MS365
+          href: https://www.office.com/?auth=2
+    - Outlook:
+        - abbr: eMail
+          href: https://outlook.office.com/mail
+    - Sharepoint:
+        - abbr: Zoetis
+          href: https://osscontact.sharepoint.com/sites/Zoetis-TeamSite/SitePages/CollabHome.aspx
+        - abbr: OSS
+          href: https://osscontact.sharepoint.com/sites/OSS-Main/SitePages/CollabHome.aspx
+    - MSProject:
+        - abbr: Project
+          href: https://project.microsoft.com/osscontact.com/en-US?mkt=en-US#/hubnew
+
+- Personal:
+    - GMail:
+        - abbr: GMail
+          href: https://mail.google.com/mail/u/0/#inbox
+    - Grades:
+        - abbr: ParentVUE
+          href: https://va-chesterfield-psv.edupoint.com/Home_PXP2.aspx
+    - MSFT Parental Controls:
+        - abbr: MSFT-Family
+          href: https://account.microsoft.com/family/home
